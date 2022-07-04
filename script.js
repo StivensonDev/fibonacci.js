@@ -7,4 +7,4 @@ function obtenFibo (num) {
     return Array
 }
 
-console.log(obtenFibo(12))
+console.log(obtenFibo(10))
